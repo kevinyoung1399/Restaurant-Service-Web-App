@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica', monospace;
+  background-image: url('./table.jpg');
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+
+
+button {
+  cursor: pointer;
+}
+
+.col1 {
+	color : #F23964;
+  text-shadow: 0 0 3px gray;
+}
+
+.col2 {
+	color : #FF9100;
+  text-shadow: 0 0 2px gray;
+}
+
+.col3 {
+  color : #161616;
+  text-shadow: 0 0 2px white;
+}
+
+
+.nice {
+	font-family: 'Overpass';
+}
+
+.nice-bold {
+	font-family: 'Overpass';
+	font-weight: bold;
+}
